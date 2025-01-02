@@ -1,2 +1,4 @@
 # package.yml
 enforce_dependencies: true
+dependencies:
+- app/packages/rails_shims
